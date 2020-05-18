@@ -190,7 +190,7 @@ You should see in your terminal a message indicating that the server is listenin
 > Server Listening for port: 8000
 
 2. To make sure your application is working fine and it creates the Genesis Block you can use POSTMAN to request the Genesis block:
-    ![ ](testingscreenshots/block0.png)
+    ![ ](testingScreenshots/block0.png)
 3. Make your first request of ownership sending your wallet address:
     ![ ](testingScreenshots/requestvalidation.png)
 4. Sign the message with your Wallet:
