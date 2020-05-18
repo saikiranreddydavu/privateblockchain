@@ -198,4 +198,4 @@ You should see in your terminal a message indicating that the server is listenin
 5. Submit your Star
      ![](testingScreenshots/submitstar.png)
 6. Retrieve Stars owned by me
-    ![](blocks address.png)
+    ![](testingScreenshots/blocks address.png)
